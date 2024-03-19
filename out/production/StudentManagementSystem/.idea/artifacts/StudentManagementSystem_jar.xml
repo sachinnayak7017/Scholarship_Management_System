@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StudentManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentManagementSystem_jar</output-path>
+    <root id="archive" name="StudentManagementSystem.jar">
+      <element id="module-output" name="StudentManagementSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/rs2xml.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/JavaLib1/poi-3.17" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/poi-3.13-beta1/poi-3.13-beta1-20150723.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/poi-3.13-beta1/poi-ooxml-3.13-beta1-20150723.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/poi-3.13-beta1/poi-examples-3.13-beta1-20150723.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/poi-3.13-beta1/poi-excelant-3.13-beta1-20150723.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/poi-3.13-beta1/poi-scratchpad-3.13-beta1-20150723.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/poi-3.13-beta1/poi-ooxml-schemas-3.13-beta1-20150723.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JavaLib1/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
